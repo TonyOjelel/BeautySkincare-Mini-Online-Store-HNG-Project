@@ -8,6 +8,22 @@ import ProductShowcase from "./ProductShowCase";
 
 const MainContent = () => {
   return (
+// components/MainContent.js
+    // const MainContent = ({ products }) => {
+    //   return (
+    //     <div className="main-content">
+    //       <h1>Product List</h1>
+    //       <div className="product-grid">
+    //         {products.map((product) => (
+    //           <ProductCard key={product.id} product={product} />
+    //         ))}
+    //       </div>
+    //     </div>
+    //   );
+    // };
+
+
+
     <main>
       <div className="banner">
         <div className="container">
